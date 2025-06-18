@@ -4,7 +4,7 @@ I'm a cybersecurity student at Penn State  with a background in biomedical engin
 
 - 🧠 30+ TryHackMe Labs (Linux, OWASP Top 10, Privilege Escalation)
 - 💻 Home lab with Kali Linux and Windows VMs
-- 📜 Studying for ISC2 Certified in Cybersecurity (CC)
+- 📜 Studying for ISC2 and Sec+ Certified in Cybersecurity (CC)
 - 🛠️ Building and documenting basic attack/defense simulations
 
 ---
